@@ -1,0 +1,22 @@
+{
+    "dialog-state": {
+        "query": "forbrugnorm",
+        "path": "",
+        "regex": false,
+        "caseSensitive": false,
+        "wholeWord": true,
+        "filePatterns": [
+            "*.r",
+            "*.R"
+        ],
+        "useGitGrep": false,
+        "excludeGitIgnore": true,
+        "excludeFilePatterns": [
+            "Opgave3.R"
+        ],
+        "resultsCount": 24,
+        "errorCount": 0,
+        "replaceErrors": "",
+        "projectRelative": true
+    }
+}
